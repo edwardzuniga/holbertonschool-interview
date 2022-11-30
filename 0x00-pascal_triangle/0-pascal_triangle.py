@@ -5,7 +5,7 @@ Pascal's Triangle function
 
 
 def pascal_triangle(n):
-    """ 
+    """
     list of lists of integers representing
     """
     triangle_pascal = []
